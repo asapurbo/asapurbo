@@ -11,7 +11,12 @@
 ### ⚙️ Tech Focus
 
 
-<p style="color: #8c8c8c;">- Languages:     JavaScript (ES6+), Python 3.x</p>
-<p>- Frontend:      React, Redux, Next.js, Tailwind CSS</p>
-<p>- Backend:       Node.js, Express, Django</p>
-<p>- Databases:     MongoDB, MySQL</p>
+```txt
+🧠 Tech Stack
+
+- Languages:     JavaScript (ES6+), Python 3.x
+- Frontend:      React, Redux, Next.js, Tailwind CSS
+- Backend:       Node.js, Express, Django
+- Databases:     MongoDB, MySQL
+```
+
