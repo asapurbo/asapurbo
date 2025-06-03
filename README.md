@@ -10,7 +10,7 @@
 ### ⚙️ Tech Focus
 
 
-Languages:     JavaScript (ES6+), Python 3.x
-Frontend:      React, Redux, Next.js, Tailwind CSS
-Backend:       Node.js, Express, Django
-Databases:     MongoDB, MySQL
+<p>Languages:     JavaScript (ES6+), Python 3.x</p>
+<p>Frontend:      React, Redux, Next.js, Tailwind CSS</p>
+<p>Backend:       Node.js, Express, Django</p>
+<p>Databases:     MongoDB, MySQL</p>
