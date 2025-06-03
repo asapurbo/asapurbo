@@ -13,3 +13,5 @@
 - Databases:     MongoDB, MySQL
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asapurbo&layout=compact&theme=github_dark&hide_border=true)
+
