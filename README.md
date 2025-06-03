@@ -9,7 +9,7 @@
 
 ### ⚙️ Tech Focus
 
-```ts
+
 Languages:     JavaScript (ES6+), Python 3.x
 Frontend:      React, Redux, Next.js, Tailwind CSS
 Backend:       Node.js, Express, Django
