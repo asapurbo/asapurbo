@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">Portfolio</a> •
-  <a href="www.linkedin.com/in/asapurbo">LinkedIn</a> •
+  <a href="www.linkedin.com/in/asapurbo" target="_blank">LinkedIn</a> •
 </p>
 
 ---
