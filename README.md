@@ -6,11 +6,6 @@
 <a href="https://instagram.com/asapurbo_" target="blank">instagram</a>
 </p>
 
----
-
-### ⚙️ Tech Focus
-
-
 ```txt
 🧠 Tech Stack
 
