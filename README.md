@@ -9,7 +9,7 @@ Tech Stack
 
 - Languages:     C, JavaScript (ES6+), Typescript, Python 3.x
 - Frontend:      React, Redux, Next.js, Tailwind CSS
-- Backend:       Node.js, Express, Django
-- Databases:     MongoDB, MySQL
+- Backend:       Node.js, Express, Fast API, Django
+- Databases:     MongoDB, MySQL, PostgreSQL
 ```
 
