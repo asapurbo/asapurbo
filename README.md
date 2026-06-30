@@ -74,4 +74,19 @@
 
 ---
 
+### 💻 Languages & Tools I work with
+
+**Languages**
+![C](https://img.shields.io/badge/C-30%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-25%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-Heavy_use-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Heavy_use-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Moderate-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Moderate-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 <p align="center"><i>⚡ Currently building CRM systems, e-learning platforms, and exploring AWS infrastructure.</i></p>
