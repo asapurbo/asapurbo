@@ -61,7 +61,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=asapurbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapurbo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapurbo&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -72,7 +72,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asapurbo&theme=tokyo-night&hide_border=true" />
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=asapurbo&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true
 ---
 
 <p align="center"><i>⚡ Currently building CRM systems, e-learning platforms, and exploring AWS infrastructure.</i></p>
