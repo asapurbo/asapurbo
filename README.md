@@ -1,17 +1,14 @@
-<div align="center">
+<h3 align="center">I'm @asapurbo</h3>
 
-# Apurbo
-
-Full-Stack Developer crafting CRM systems & e-learning platforms
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asapurbo)
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,react,nextjs,tailwind,nodejs,fastapi,django,postgres,mongodb&theme=dark" />
-
+<div align="left">
+  <p><a href="https://linkedin.com/in/asapurbo" target="blank">Linkedin</a></p>
 </div>
 
-<br>
+```txt
+Tech Stack
 
-### Most used
+- Languages:     C, C++, JavaScript (ES6+), Typescript, Python 3.x
+- Frontend:      React, Redux, Next.js, Tailwind CSS
+- Backend:       Node.js, Express, Fast API, Django
+- Databases:     MongoDB, MySQL, PostgreSQL
+```
